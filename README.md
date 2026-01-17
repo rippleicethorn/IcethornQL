@@ -14,9 +14,9 @@
 ## 青龙订阅任务
 ```
 名称：IcethornQL
-类型：私密仓库
+类型：公开仓库
 链接：https://github.com/linbailo/zyqinglong.git
 定时类型：crontab
-定时规则：0 30 * * * *
+定时规则：0 30 5 * * *
 文件后缀：py js
 ```

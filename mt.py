@@ -10,7 +10,7 @@ mt论坛自动签到
 则变量为10086&1001=1234&1234
 export mtluntan=""
 
-cron: 0 0 6 * *
+cron: 0 0 6 * * *
 const $ = new Env("mt论坛");
 """
 import requests
