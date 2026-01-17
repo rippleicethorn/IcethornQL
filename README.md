@@ -12,7 +12,7 @@
 ```
 名称：IcethornQL
 类型：公开仓库
-链接：https://gh.llkk.cc/https://github.com/rippleicethorn/IcethornQL/blob/main/mt.py
+链接：https://gh.llkk.cc/https://github.com/rippleicethorn/IcethornQL.git
 定时类型：crontab
 定时规则：0 30 5 * * *
 文件后缀：py js
